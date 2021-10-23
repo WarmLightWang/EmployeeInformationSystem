@@ -1,0 +1,13 @@
+2021-10-22 21:09:04 ERROR EmployeeDao:71 - The provided information is invalid for adding an employee??
+2021-10-22 21:09:53 INFO  EmployeeDao:90 - Add an employee into the database and whose employee id is 7
+2021-10-22 21:10:07 INFO  Menu:57 - Going to print all employees information from the database.
+2021-10-22 21:11:35 WARN  Menu:92 - Going to delete an employee from the database at id 6
+2021-10-22 21:12:19 INFO  Menu:57 - Going to print all employees information from the database.
+2021-10-22 21:13:08 INFO  EmployeeDao:90 - Add an employee into the database and whose employee id is 7
+2021-10-22 21:13:25 WARN  Menu:89 - User input for the employee id is wrong!!
+2021-10-22 21:14:24 WARN  Menu:92 - Going to delete an employee from the database at id 7
+2021-10-22 21:15:00 ERROR EmployeeDao:132 - The provided information is invalid for changing an email??
+2021-10-22 21:16:15 ERROR EmployeeDao:165 - The input role title doesn't exist in the database??
+2021-10-22 21:17:19 ERROR RoleDao:63 - The input role title doesn't exist in the database??
+2021-10-22 21:18:04 ERROR RoleDao:100 - The input role title doesn't exist in the database??
+2021-10-22 21:19:53 INFO  EmployeeDao:90 - Add an employee into the database and whose employee id is 7
